@@ -1,0 +1,12 @@
+C:\Users\jscanlan\Music\VBim\VBim\bin\Debug\VBim.exe.config
+C:\Users\jscanlan\Music\VBim\VBim\bin\Debug\VBim.exe
+C:\Users\jscanlan\Music\VBim\VBim\bin\Debug\VBim.pdb
+C:\Users\jscanlan\Music\VBim\VBim\bin\Debug\VBim.xml
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.main.resources
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.Resources.resources
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.vbproj.GenerateResource.Cache
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.exe
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.xml
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.pdb
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.vbprojResolveAssemblyReference.cache
+C:\Users\jscanlan\Music\VBim\VBim\obj\Debug\VBim.about.resources
